@@ -1,2 +1,16 @@
-# githubprofile
-Introduction of Me on Github
+## Hi! I'm Shahin Yousefi
+## A Researcher from Iran.
+I am a diligent researcher in the field of Natural Language Processing (NLP) who can analyze problems and craft creative solutions. It exhilarates me to find or extract new information from textual data. I have the ability to lead and guide the group and can be effective in different situations.
+
+## 💻 Research Interests
+Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
+
+## 💻 Research Experiences
+Internship at Bielefeld, RA & TA at IASBS
+
+## 💻 Skills
+Programming Languages: Python (intermediate, 3+ years), C++, C# (2 years)
+
+## 🌐 Contact Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahin-yousefi/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shyousefi72@gmail.com)
