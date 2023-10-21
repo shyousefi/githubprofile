@@ -5,7 +5,7 @@ I am a diligent researcher in the field of Natural Language Processing (NLP) who
  Natural Language Processing, Machine Learning, Deep Learning, Computer Vision
 
 ## 💻 Research Experiences
-Internship at Bielefeld, RA & TA at IASBS
+Internship at Bielefeld University, RA & TA at IASBS
 
 ## 💻 Skills
 Programming Languages: Python (intermediate, 3+ years), C++, C# (2 years)
